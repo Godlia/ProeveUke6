@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+#Navbar {
+    display: flex;
+    background-color: #00ADDB;
+    width: 100%;
+    height: 6.15vh;
+}
+
+#MegaMenu {
+    padding: 0.4em;
+}
+
+#MegaMenu:hover {
+    background-color: #0080A3;
+}
+
+#Main {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+}
+
+#Sidebar {
+    display: flex;
+    flex-direction: column;
+    background-color: #F7F8F8;
+    max-width: 5vw;
+    height: 100%;
+}
+
+.Icon {
+    width: inherit;
+}
+
+#Content {
+    margin-right: 30%;
+    margin-left: 25%;
+    height: 100%;
+}
+
+#NavContent {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 100%;
+}
+
+p {
+    font-family: Mulish, Helvetica Neue, Helvetica, Arial, Roboto, sans-serif;
+    color: #00ADDB;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Mulish, Helvetica Neue, Helvetica, Arial, Roboto, sans-serif;
+    color: #00ADDB;
+}
+
+.Item {
+    border: #E6E9EA solid 1px;
+    border-radius: 0.5em;
+    display: flex;
+    font-weight: bold;
+    padding: 1.0em;
+    margin: 1em;
+}
+
+.Item img {
+    width: 10em;
+    padding: 0;
+    margin: 0;
+}
