@@ -12,3 +12,16 @@ Footeren har mye om prisjakt som et selskap
 Farger (hex):
 Navbar BG: #00ADDB
 Sidebar BG: #F7F8F8
+
+
+
+#Egenvurdering
+*Planlegging
+*Feil og mangler
+*Unikhet
+*Lesbarhet
+*Variabelnavn
+*Innryk
+*Kommentarer
+*Betingelser
+*Løkker
