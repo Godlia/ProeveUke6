@@ -9,7 +9,7 @@ Det er en stor block med content som åpnet seg når du trykker på logoen oppe 
 Footeren har mye om prisjakt som et selskap
 
 
-Planen var å ha en bildekarussel, men jeg hadde ikke nok tid pga. CSS :)
+Planen var å ha en bildekarussel, men jeg hadde ikke nok tid pga. CSS 🙃
 
 Farger (hex):
 Navbar BG: #00ADDB
