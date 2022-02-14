@@ -18,6 +18,7 @@ Sidebar BG: #F7F8F8
 
 
 #Egenvurdering
+
 *Planlegging
 *Feil og mangler
 *Unikhet
