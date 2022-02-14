@@ -17,7 +17,7 @@ Sidebar BG: #F7F8F8
 
 
 
-### Egenvurdering
+#### Egenvurdering
 
 * Planlegging  
     Middels, jeg planla gameplanen min ganske greit, ihvertfall i hodet  
@@ -26,13 +26,14 @@ Sidebar BG: #F7F8F8
 * Unikhet  
     Middels, Altså, oppgaven var jo å kopiere en hel nettside.  
 * Lesbarhet  
-
+    Høy, syntes strukturen på koden min er ganske lesbar.
 * Variabelnavn  
-
+    Høy, bruker variabel navn som gir god mening for hva de skal brukes for
 * Innryk  
-
+    Høy, Alltid innrykk!
 * Kommentarer  
-
+    Middels/lav, ikke nok i HTML eller css
 * Betingelser  
-
+    
 * Løkker  
+    Lav, Bare en løkke, men det er litt fra mangel.
