@@ -19,9 +19,10 @@ Sidebar BG: #F7F8F8
 
 #### Egenvurdering
 | Tema | Grad | Kommentar |
-| Planlegging | Middels | jeg planla gameplanen min ganske greit, ihvertfall i hodet   |
-| Feil og mangler | Lav | Mange mangler, største er jo da JS. Jeg satte meg fast på mange ting som jeg ikke burde kasta vekk tiden min på...   |
-| Unikhet | Middels | Altså, oppgaven var jo å kopiere en hel nettside.   |
+| ----------- | ----------- | ----------- |
+| Planlegging | Middels | jeg planla gameplanen min ganske greit, ihvertfall i hodet|
+| Feil og mangler | Lav | Mange mangler, største er jo da JS. Jeg satte meg fast på mange ting som jeg ikke burde kasta vekk tiden min på... |
+| Unikhet | Middels | Altså, oppgaven var jo å kopiere en hel nettside. |
 | Lesbarhet | Høy, syntes strukturen på koden min er ganske lesbar. |
 | Variabelnavn | Høy | bruker variabel navn som gir god mening for hva de skal brukes for |
 | Innrykk | Høy, Alltid innrykk! |
