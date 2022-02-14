@@ -17,14 +17,14 @@ Sidebar BG: #F7F8F8
 
 
 
-#Egenvurdering
+### Egenvurdering
 
-*Planlegging
-*Feil og mangler
-*Unikhet
-*Lesbarhet
-*Variabelnavn
-*Innryk
-*Kommentarer
-*Betingelser
-*Løkker
+*Planlegging  
+*Feil og mangler  
+*Unikhet  
+*Lesbarhet  
+*Variabelnavn  
+*Innryk  
+*Kommentarer  
+*Betingelser  
+*Løkker  
